@@ -1,0 +1,11 @@
+mike:10000
+sam:20000
+pit:20000
+jon:70000
+liz:45000
+kate:10000
+fred:45000
+pole:60000
+jone:10000
+luize:12000
+ew:23

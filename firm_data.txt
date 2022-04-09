@@ -1,0 +1,5 @@
+firm_1 ooo 10000 5000
+firm_2 oao 20000 25000
+firm_3 jlc 30000 15000
+firm_4 jcb 40000 25000
+firm_5 ooo 50000 35000
